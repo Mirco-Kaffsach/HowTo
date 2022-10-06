@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9a2d639579ca19b5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview",
-            "source": true
+        "id": "9478d3a14558b87e",
+        "type": "split",
+        "children": [
+          {
+            "id": "9a2d639579ca19b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2b9301f6fe003b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -131,6 +150,7 @@
   "lastOpenFiles": [
     "Visual Studio/Dev Certificate expired.md",
     "README.md",
+    "Visual.md",
     "Visual Studio%2FDev Certificate expired.md",
     "Untitled.md"
   ]
