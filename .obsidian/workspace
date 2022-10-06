@@ -140,13 +140,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9a2d639579ca19b5",
+  "active": "dc553cdb845a557d",
   "lastOpenFiles": [
     "Visual Studio/Dev Certificate expired.md",
     "README.md",
